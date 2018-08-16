@@ -1,4 +1,4 @@
 # remotecmd
-Remote command for remote systems stencil
+Remote command execution for remote systems stencil
 
 `sh remotecmd.sh`
